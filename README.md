@@ -1,3 +1,3 @@
 # myrepo
 
-here is my first github repository. Change from local edits.
+here is my first github repository. Change from local edits. But this was editted directly in github.
