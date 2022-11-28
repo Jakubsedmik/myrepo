@@ -1,5 +1,5 @@
 #ignore just one file
-ssnew-file.txt
+new-file.txt
 
 #ignore all in bin
 bin/
